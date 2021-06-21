@@ -7,7 +7,7 @@ Analyzing how different campaigns fared in relation to their launch dates and th
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-This chart below displays when theatres were either successful, failed, or canceled on a monthly basis between 2009 and 2017.
+This chart below displays when theaters were either successful, failed, or canceled on a monthly basis between 2009 and 2017.
 ![Theatre_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85372441/122807184-decc8100-d290-11eb-92f3-b4c13c17cf7f.png)
 
 ### Analysis of Outcomes Based on Goals
@@ -19,8 +19,8 @@ The main difficulty with these chart was the COUNTIFS formulas. Through trial an
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. The most successful time of year for theatre outcomes is during the summer season(May through August), especially in the months of May and June.
-2. The least successul time of year for theatre outcomes is during the winter season, especially from the months of November through January.
+1. The most successful time of year for theater outcomes is during the summer season(May through August), especially in the months of May and June.
+2. The least successul time of year for theater outcomes is during the winter season, especially from the months of November through January.
 - What can you conclude about the Outcomes based on Goals?
 1. The highest percentage of successful campaigns were between the ranges of $0 to $15,000.00 as well as $35,000.00 to $44,999.00.
 2. The most successful campaigns had a goal below $5,000.00, while the least successful campaigns had a goal of $45,000.00 or higher.
