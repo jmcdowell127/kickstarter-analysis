@@ -27,5 +27,5 @@ The main difficulty with these chart was the COUNTIFS formulas. Through trial an
 - What are some limitations of this dataset?
 1. This dataset is not a very large sample size once filtered down to Louise's interests and needs. 
 2. The only locations given were by country, which is vague and does not help with finding which cities and venues to launch at.
-- What are some other possible tables and/or graphs that we could create?
-1. A histogram would be helpful in filtering out outliers that are not relatable. 
+- What are some other possible tables and/or graphs that we could create?  
+A histogram would be helpful in filtering out outliers that are not relatable. 
